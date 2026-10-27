@@ -2,6 +2,10 @@
 
 An interactive multi-step form that guides users through a subscription process with a clear and user-friendly interface.
 
+## 📸 Screenshot
+
+![Multi-Step Form Screenshot](./Multi-Step.png)
+
 ## 🚀 Live Demo
 
 [View the Live Demo](https://omarabdelkhaliq.github.io/Multi-step-form/)
